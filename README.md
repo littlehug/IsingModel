@@ -1,3 +1,6 @@
+Version: python2
+
+
 # IsingModel
 The Ising Model in Python
 
