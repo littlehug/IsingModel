@@ -13,7 +13,7 @@ class Lattice:
         self.dimensions = dims
         self.kt = kt
         self.lattice = self.recursive_allocator(0)
-	    self.name = name
+	self.name = name
 
     # This recursive code is accreditted to:
     # http://www.holehouse.org/programming/creating-n-dimensional-arrays-in-python/
