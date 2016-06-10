@@ -35,5 +35,5 @@ read -p "Please see above, is your pip version 2.7? [Y/n] " -n1 key
 echo ""
 
 [ "${key}" == "y" -o "${key}" == "Y" ] && echo "sudo pip install numpy --upgrade" && sudo pip install numpy --upgrade && echo "Finish!"
-[ "${key}" == "n" -o "${key}" == "N" ] && echo "please install pip as 2.7 version" && exit 0
+[ "${key}" == "n" -o "${key}" == "N" ] && echo "sudo pip2 install numpy --upgrade" && sudo pip2 install numpy --upgrade && echo "Finish!"
 
