@@ -1,0 +1,4 @@
+ - http://francescopochetti.com/stock-market-prediction-part-introduction/
+ - http://www.thebrokendesk.com/post/monte-carlo-simulation-of-the-ising-model-using-python/
+ - http://stackoverflow.com/questions/9929678/ising-model-in-python-not-giving-correct-results
+ - http://www.physics.rutgers.edu/~haule/681/src_MC/python_codes/ising.py
