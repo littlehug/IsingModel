@@ -20,8 +20,8 @@ if [$? == 1]; then
 	exit 0
 fi
 
-echo "sudo apt-get install python-pip python-numpy python-scipy"
-sudo apt-get install python-pip python-numpy python-scipy
+echo "sudo apt-get install python-pip python-numpy python-scipy python-matplotlib"
+sudo apt-get install python-pip python-numpy python-scipy python-matplotlib
 
 # Upgrade numpy version
 echo ""
