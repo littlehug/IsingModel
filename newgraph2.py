@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python2
 """
 Monte Carlo simulation of the 2D Ising model
 """
