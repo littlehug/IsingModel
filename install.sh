@@ -21,7 +21,7 @@ if [$? == 1]; then
 fi
 
 echo "sudo apt-get install python-pip python-numpy python-scipy python-matplotlib"
-sudo apt-get install python-pip python-numpy python-scipy python-matplotlib
+sudo apt-get install python-pip python-numpy python-scipy python-matplotlib python-pandas python-sklearn
 
 # Upgrade numpy version
 echo ""
